@@ -18,7 +18,7 @@ Laser powder bed fusion (LPBF) of 316L stainless steel produces coarse, column-s
 1. **Developed a powder-mixing route.** Screened five planetary ball-milling set-ups (zirconia vs. hardened-steel media, 0.5 and 1 mm balls, ball-to-powder ratio 1:1 to 3:1) with 0.7 wt.% Y₂O₃, judged by SEM dispersion and shear-cell flowability. Trials were run at the FRITSCH lab in Idar-Oberstein.
 2. **Prepared three inoculated powders**: 0.3 and 0.7 wt.% Y₂O₃, 0.3 wt.% CeO₂, plus baseline 316L.
 3. **Printed all four conditions together** on a TRUMPF TruPrint 1000 at a fixed volumetric energy density of 100 J/mm³.
-4. **Characterised the samples**: optical microscopy, porosity analysis, SEM with EDX, Vickers hardness (HV5) with Welch ANOVA, EBSD in progress.
+4. **Characterised the samples**: optical microscopy, porosity analysis, SEM with EDX, Vickers hardness (HV5) with Welch ANOVA. EBSD was planned but not available, so grain size was assessed from etched micrographs and SEM images.
 
 ### Key results
 | Finding | Detail |
@@ -37,7 +37,7 @@ Laser powder bed fusion (LPBF) of 316L stainless steel produces coarse, column-s
 | ![](media/sem-ceo2-powder.jpg) | ![](media/red-light.jpg) |
 
 ### Skills shown
-`LPBF` `TruPrint 1000` `powder processing` `planetary ball milling` `design of experiments` `flowability testing` `metallography` `SEM/EDX` `EBSD` `hardness testing` `Welch ANOVA` `technical writing`
+`LPBF` `TruPrint 1000` `powder processing` `planetary ball milling` `design of experiments` `flowability testing` `metallography` `SEM/EDX` `metallography` `hardness testing` `Welch ANOVA` `technical writing`
 
 *The full thesis is not public.*
 
@@ -52,7 +52,7 @@ Beim Laserstrahlschmelzen (LPBF) von 316L entstehen grobe, stängelförmige Kör
 1. **Entwicklung des Mischprozesses**: fünf Planetenkugelmühlen-Konfigurationen (Zirkonoxid vs. gehärteter Stahl, 0,5 und 1 mm Kugeln, Kugel-Pulver-Verhältnis 1:1 bis 3:1) mit 0,7 Gew.-% Y₂O₃, bewertet über REM-Dispersion und Scherzellen-Fließfähigkeit; Versuche im FRITSCH-Labor in Idar-Oberstein.
 2. **Herstellung von drei geimpften Pulvern**: 0,3 und 0,7 Gew.-% Y₂O₃, 0,3 Gew.-% CeO₂, dazu 316L als Referenz.
 3. **Gemeinsamer Druck aller vier Varianten** auf einer TRUMPF TruPrint 1000 bei 100 J/mm³.
-4. **Charakterisierung**: Lichtmikroskopie, Porosität, REM/EDX, Vickers-Härte (HV5) mit Welch-ANOVA, EBSD in Arbeit.
+4. **Charakterisierung**: Lichtmikroskopie, Porosität, REM/EDX, Vickers-Härte (HV5) mit Welch-ANOVA. EBSD war geplant, stand aber nicht zur Verfügung; die Korngröße wurde über geätzte Schliffbilder und REM-Aufnahmen beurteilt.
 
 ### Ergebnisse
 - Gehärteter Stahl bei 3:1 als einzige Konfiguration mit gültigen Fließwerten ausgewählt
