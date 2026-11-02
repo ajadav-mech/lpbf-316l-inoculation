@@ -25,7 +25,7 @@ Laser powder bed fusion (LPBF) of 316L stainless steel produces coarse, column-s
 |---|---|
 | Milling route selected | Hardened-steel media at BPR 3:1 was the only set-up with valid flowability values at all consolidation stresses (ffc = 16.4) |
 | Powders stayed printable | All inoculated powders remained free-flowing (ffc₁ 14.5–55.5 vs. 31.2 as-received) |
-| Hardness unchanged | 212.7–215.3 HV5 vs. 214.8 HV5 baseline; not significant (p = 0.35); any real effect is below ~4 % |
+| Hardness unchanged | 211.5–215.3 HV5 vs. 211.0 HV5 baseline; not significant (p = 0.22) |
 | Process limit found | 0.7 wt.% Y₂O₃ caused lack-of-fusion porosity at unchanged parameters |
 | Contamination traced | Yttrium found in CeO₂ samples was traced to residue on the milling balls |
 | Lesson for design | Smallest balls are not automatically best: 0.5 mm zirconia gave the poorest dispersion because of lower impact energy |
@@ -57,7 +57,7 @@ Beim Laserstrahlschmelzen (LPBF) von 316L entstehen grobe, stängelförmige Kör
 ### Ergebnisse
 - Gehärteter Stahl bei 3:1 als einzige Konfiguration mit gültigen Fließwerten ausgewählt
 - Alle geimpften Pulver blieben frei fließend
-- Keine Härteänderung (212,7–215,3 HV5 vs. 214,8 HV5; p = 0,35)
+- Keine Härteänderung (211,5–215,3 HV5 vs. 211,0 HV5; p = 0,22)
 - 0,7 Gew.-% Y₂O₃ führte zu Bindefehlern
 - Yttrium in den CeO₂-Proben auf Rückstände an den Mahlkugeln zurückgeführt
 
