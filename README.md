@@ -37,7 +37,7 @@ Laser powder bed fusion (LPBF) of 316L stainless steel produces coarse, column-s
 | ![](media/sem-ceo2-powder.jpg) | ![](media/red-light.jpg) |
 
 ### Skills shown
-`LPBF` `TruPrint 1000` `powder processing` `planetary ball milling` `design of experiments` `flowability testing` `metallography` `SEM/EDX` `metallography` `hardness testing` `Welch ANOVA` `technical writing`
+`LPBF` `TruPrint 1000` `powder processing` `planetary ball milling` `design of experiments` `flowability testing` `metallography` `SEM/EDX` `hardness testing` `Welch ANOVA` `technical writing`
 
 *The full thesis is not public.*
 
@@ -60,5 +60,15 @@ Beim Laserstrahlschmelzen (LPBF) von 316L entstehen grobe, stängelförmige Kör
 - Keine Härteänderung (211,5–215,3 HV5 vs. 211,0 HV5; p = 0,22)
 - 0,7 Gew.-% Y₂O₃ führte zu Bindefehlern
 - Yttrium in den CeO₂-Proben auf Rückstände an den Mahlkugeln zurückgeführt
+- Kleinste Kugeln sind nicht automatisch am besten: 0,5-mm-Zirkonoxidkugeln ergaben wegen geringerer Stoßenergie die schlechteste Dispersion
 
-**Fazit:** Bis 0,7 Gew.-% und mit unveränderten Parametern keine messbare Verfestigung. Feinere Dispersion und angepasste Prozessparameter sind nötig.
+**Fazit:** Bis 0,7 Gew.-% und mit unveränderten Parametern keine messbare Verfestigung. Feinere Dispersion und angepasste Prozessparameter sind nötig; daraus ergeben sich klare nächste Schritte.
+
+| REM: CeO₂-beschichtetes 316L-Pulver | Helle rote Emission beim Drucken der Y₂O₃-Pulver |
+|---|---|
+| ![](media/sem-ceo2-powder.jpg) | ![](media/red-light.jpg) |
+
+### Kenntnisse
+`LPBF` `TruPrint 1000` `Pulveraufbereitung` `Planetenkugelmühle` `Versuchsplanung` `Fließfähigkeit` `Metallographie` `REM/EDX` `Härteprüfung` `Welch-ANOVA` `wissenschaftliches Schreiben`
+
+*Die vollständige Arbeit ist nicht öffentlich.*
